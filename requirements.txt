@@ -1,3 +1,6 @@
+nbgitpuller
+
+# requirements from Quantopian
 colour
 cvxpy
 cycler
@@ -13,4 +16,4 @@ scikit-learn
 six
 tqdm
 zipline
-nbgitpuller
+
